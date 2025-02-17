@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Revanfer14/LeetCode/tree/master/0001-two-sum) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Revanfer14/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
