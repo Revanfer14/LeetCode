@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Revanfer14/LeetCode/tree/master/0001-two-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Revanfer14/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Revanfer14/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Two Pointers
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
