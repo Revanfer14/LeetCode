@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Revanfer14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Revanfer14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Revanfer14/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3859-maximum-product-of-two-digits](https://github.com/Revanfer14/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/Revanfer14/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/Revanfer14/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
