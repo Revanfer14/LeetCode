@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Revanfer14/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
 | [1580-shuffle-the-array](https://github.com/Revanfer14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Revanfer14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Revanfer14/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
