@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Revanfer14/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Revanfer14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Revanfer14/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Revanfer14/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Revanfer14/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Revanfer14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Revanfer14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Revanfer14/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Bit Manipulation
