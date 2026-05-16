@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Revanfer14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Revanfer14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Revanfer14/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/Revanfer14/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Revanfer14/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Revanfer14/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1816-truncate-sentence](https://github.com/Revanfer14/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Revanfer14/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Revanfer14/LeetCode/tree/master/3379-score-of-a-string) |
