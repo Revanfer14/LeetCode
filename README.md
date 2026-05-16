@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Revanfer14/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Revanfer14/LeetCode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Revanfer14/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-find-words-containing-character](https://github.com/Revanfer14/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Revanfer14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Revanfer14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Revanfer14/LeetCode/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Revanfer14/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1635-number-of-good-pairs](https://github.com/Revanfer14/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Revanfer14/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Revanfer14/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Revanfer14/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
