@@ -1,7 +1,5 @@
 class Solution {
     func decompressRLElist(_ nums: [Int]) -> [Int] {
-
-        let len = nums.count / 2
         var freq = 0
         var val = 0
 
