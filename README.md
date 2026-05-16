@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Revanfer14/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1580-shuffle-the-array](https://github.com/Revanfer14/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Revanfer14/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Revanfer14/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1791-richest-customer-wealth](https://github.com/Revanfer14/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Revanfer14/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Revanfer14/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Revanfer14/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Revanfer14/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/Revanfer14/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revanfer14/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
