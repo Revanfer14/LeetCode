@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Revanfer14/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revanfer14/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Revanfer14/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Revanfer14/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Revanfer14/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/Revanfer14/LeetCode/tree/master/3778-transform-array-by-parity) |
