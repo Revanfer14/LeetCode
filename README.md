@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Revanfer14/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revanfer14/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Revanfer14/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
