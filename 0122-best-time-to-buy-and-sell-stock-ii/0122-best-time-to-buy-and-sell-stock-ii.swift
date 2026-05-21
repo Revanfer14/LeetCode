@@ -4,7 +4,6 @@ class Solution {
 
         for i in 1..<prices.count {
             if prices[i] > prices[i-1] {
-                print("Profit \(profit)")
                 profit += prices[i] - prices[i-1]
             }
         }
