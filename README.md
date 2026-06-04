@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revanfer14/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Revanfer14/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/Revanfer14/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Revanfer14/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Revanfer14/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Revanfer14/LeetCode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Revanfer14/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Revanfer14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
