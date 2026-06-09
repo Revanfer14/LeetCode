@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Revanfer14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Revanfer14/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Revanfer14/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Revanfer14/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Revanfer14/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3778-transform-array-by-parity](https://github.com/Revanfer14/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Revanfer14/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Revanfer14/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
