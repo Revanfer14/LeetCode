@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Revanfer14/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Revanfer14/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Revanfer14/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Revanfer14/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Revanfer14/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3859-maximum-product-of-two-digits](https://github.com/Revanfer14/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2491-smallest-even-multiple](https://github.com/Revanfer14/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Revanfer14/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
