@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Revanfer14/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Revanfer14/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/Revanfer14/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0164-maximum-gap](https://github.com/Revanfer14/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Revanfer14/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Revanfer14/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Revanfer14/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/Revanfer14/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/Revanfer14/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Revanfer14/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Revanfer14/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Revanfer14/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Revanfer14/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
