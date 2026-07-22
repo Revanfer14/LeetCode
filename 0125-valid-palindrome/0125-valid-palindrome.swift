@@ -7,9 +7,8 @@ class Solution {
         var left = 0
         var right = char.count - 1
 
-        let len = char.count / 2
 
-        for i in 0..<len {
+        while left < right {
             if char[left] != char[right] {
                 return false
             }
@@ -17,6 +16,15 @@ class Solution {
             left = left + 1
             right = right - 1
         }
+
+        // for i in 0..<len {
+        //     if char[left] != char[right] {
+        //         return false
+        //     }
+
+        //     left = left + 1
+        //     right = right - 1
+        // }
 
         return true
     }
