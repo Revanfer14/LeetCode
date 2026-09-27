@@ -4,7 +4,7 @@ class Solution:
 
         a = s.split()
 
-        if len(pattern) < len(a) or len(pattern) > len(a):
+        if len(pattern) != len(a):
             return False
 
         for i, val in enumerate(pattern):
