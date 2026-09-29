@@ -1,7 +1,7 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        a = s.strip()
-        b = a.split()
+        a = s.strip() # Remove whitespaces
+        b = a.split() # Turn text to array
 
         lengthB = len(b)
 
