@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Revanfer14/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Revanfer14/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Revanfer14/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Revanfer14/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Revanfer14/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
