@@ -3,12 +3,11 @@ class Solution:
         numDict = Counter(nums)
         numList = numDict.most_common()
 
-        print(numList)
         result = []
 
         for i in range(k):
-            key = numList[i]
+            val = numList[i]
             
-            result.append(key[0])
+            result.append(val[0])
 
         return result
