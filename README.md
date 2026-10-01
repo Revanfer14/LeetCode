@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Revanfer14/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Revanfer14/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Revanfer14/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Revanfer14/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Revanfer14/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
