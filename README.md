@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Revanfer14/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Revanfer14/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Revanfer14/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Revanfer14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Revanfer14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Revanfer14/LeetCode/tree/master/1642-water-bottles) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Revanfer14/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
