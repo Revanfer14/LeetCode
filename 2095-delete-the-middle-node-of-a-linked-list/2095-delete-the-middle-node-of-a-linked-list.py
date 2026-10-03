@@ -9,14 +9,10 @@ class Solution:
         dummy.next = head
         
         prev = dummy
+        ahead = head
 
-        slow = fast = head
-
-        while fast and fast.next is not None:
-            print(f"Slow: {slow.val}")
-            print(f"Fast: {fast.val}")
-            fast = fast.next.next
-            slow = slow.next
+        while ahead and ahead.next is not None:
+            ahead = ahead.next.next
             prev = prev.next
 
         prev.next = prev.next.next
