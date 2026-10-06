@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Revanfer14/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Revanfer14/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Revanfer14/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Revanfer14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Revanfer14/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Revanfer14/LeetCode/tree/master/1642-water-bottles) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Revanfer14/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Revanfer14/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Revanfer14/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Revanfer14/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Revanfer14/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 | Problem Name | Difficulty |
