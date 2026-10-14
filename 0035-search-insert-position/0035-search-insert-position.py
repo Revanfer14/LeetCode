@@ -3,10 +3,8 @@ class Solution:
         left = 0
         right = len(nums) - 1
 
-        mid = 0
-
         while left <= right:
-            mid = (left + right) // 2
+            mid = left + (right - left) // 2
 
             if nums[mid] == target:
                 return mid
@@ -15,7 +13,4 @@ class Solution:
             else:
                 right = mid - 1
 
-        if left > right:
-            return left
-
-        return mid
+        return left
