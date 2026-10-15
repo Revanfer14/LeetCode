@@ -3,7 +3,6 @@ class Solution:
         nSet = set()
 
         while n != 1:
-            print(nSet)
             nStr = str(n)
 
             n = sum(int(x)**2 for x in nStr)
