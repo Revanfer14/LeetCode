@@ -8,7 +8,7 @@ class Solution:
             
             if n in nSet:
                 return False
-
-            nSet.add(n)
+            else: 
+                nSet.add(n)
 
         return True
