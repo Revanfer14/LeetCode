@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Revanfer14/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Revanfer14/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Revanfer14/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Revanfer14/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revanfer14/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Revanfer14/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Revanfer14/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Revanfer14/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Revanfer14/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Revanfer14/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Revanfer14/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Revanfer14/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Revanfer14/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Revanfer14/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Revanfer14/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Revanfer14/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3778-transform-array-by-parity](https://github.com/Revanfer14/LeetCode/tree/master/3778-transform-array-by-parity) |
