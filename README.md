@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Revanfer14/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/Revanfer14/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Revanfer14/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Revanfer14/LeetCode/tree/master/0069-sqrtx) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Revanfer14/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Revanfer14/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Revanfer14/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Revanfer14/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Revanfer14/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Revanfer14/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Revanfer14/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Revanfer14/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
