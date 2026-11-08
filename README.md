@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Revanfer14/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Revanfer14/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Revanfer14/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Revanfer14/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Revanfer14/LeetCode/tree/master/0069-sqrtx) |
