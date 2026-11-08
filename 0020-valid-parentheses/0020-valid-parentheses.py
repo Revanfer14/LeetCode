@@ -1,24 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        if len(s) <= 1:
-            return False
-
         if len(s) % 2 != 0:
             return False
 
+        dic = {"}": "{", "]": "[", ")": "("}
         stack = []
 
-        dictio = {")": "(", "]": "[", "}": "{"}
-
-        for st in s:
-            if st == "(" or st == "[" or st == "{":
-                stack.append(st)
+        for i in s:
+            if i in dic.values():
+                stack.append(i)
             else:
-                if st in dictio and stack and dictio[st] == stack[-1]:
+                if i in dic and stack and stack[-1] == dic[i]:
                     stack.pop()
                 else:
-                    stack.append(st)
-
+                    return False
+        
         if stack:
             return False
         else:
