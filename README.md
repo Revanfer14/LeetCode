@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Revanfer14/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/Revanfer14/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Revanfer14/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Revanfer14/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Revanfer14/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Revanfer14/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Revanfer14/LeetCode/tree/master/3379-score-of-a-string) |
